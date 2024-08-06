@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @SuperAadhil
-- 👀 I’m interested in Customisation of windows
-- 🌱 I’m currently in High school 
-- 💞️ I’m looking to collaborate on AutoHotKey
+# FOSS is the need
+
+- 👋 Hi, I’m @Aadhil Kassim
+- Getting started on Github
 - 📫 How to reach me https://www.instagram.com/aadhil__kassim
 
-Welcome to my Windows Customization Club
+## Education
+
+- Highschool graduate (Technical School)
+- Looking Forward to a CS Major
