@@ -39,7 +39,7 @@
   <a href="aadhikassim@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/aadhil-kassim-9a7a56254" target="_blank">
+  <a href="https://www.linkedin.com/in/aadhilkassim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
 </div>
