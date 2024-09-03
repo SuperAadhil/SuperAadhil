@@ -25,11 +25,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadhilKassim&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadhilKassim&theme=dark&hide_border=false" height="150" alt="streak graph"  />
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AadhilKassim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadhilKassim&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadhilKassim&theme=dark&hide_border=false" height="130" alt="streak graph"  />
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AadhilKassim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="130" alt="Top Languages">
 </div>
 
+###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AadhilKassim&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4" height="39" alt="Github Trophies">
+</div>
 ###
 
 <div align="center">
