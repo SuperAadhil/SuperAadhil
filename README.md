@@ -63,3 +63,15 @@
 <img src="https://raw.githubusercontent.com/SuperAadhil/SuperAadhil/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+
+
+
+
+
+<!----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)>
