@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AadhilKassim&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4" height="50" alt="Github Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=AadhilKassim&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4" height="70" alt="Github Trophies">
 </div>
 
 ###
