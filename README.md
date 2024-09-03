@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Languages I Know</h3>
+<h3>Languages I Know:</h3>
 
 ###
 
@@ -25,20 +25,20 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadhilKassim&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="130" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadhilKassim&theme=dark&hide_border=false" height="130" alt="streak graph"  />
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AadhilKassim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="130" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadhilKassim&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="100" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadhilKassim&theme=dark&hide_border=false" height="100" alt="streak graph"  />
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AadhilKassim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="100" alt="Top Languages">
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AadhilKassim&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4" height="70" alt="Github Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=AadhilKassim&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4" height="90" alt="Github Trophies">
 </div>
 
 ###
 
-<div align="center">
+<!--div align="center">
   <a href="https://www.youtube.com/@aadhil__kassim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="youtube logo"  />
   </a>
@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/aadhilkassim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
   </a>
-</div>
+</div-->
 
 ###
 
